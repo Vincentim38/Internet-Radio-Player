@@ -8,7 +8,7 @@ Vouos pouvez utiliser ce type de batterie : https://www.amazon.fr/dp/B0H2YNVYJ4.
 
 Le boitier est de ma conception aussi, il resssemble à ça : 
 
-<img width="798" height="629" alt="RadioWifiRendu1" src="https://github.com/user-attachments/assets/b5a701bc-3f70-41c0-975d-6dacb4b69607" />
+<img width="479" height="378" alt="RadioWifiRendu1" src="https://github.com/user-attachments/assets/d1c2e937-7415-41f4-a480-ca1be89848d7" />
 
-<img width="599" height="643" alt="RadioWifiRendu2" src="https://github.com/user-attachments/assets/e4d7cebd-d659-4d14-a2b3-b15e2758b53a" />
+<img width="359" height="385" alt="RadioWifiRendu2" src="https://github.com/user-attachments/assets/c91da9df-b7d3-4e35-9750-fcb5de20c011" />
 
