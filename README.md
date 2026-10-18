@@ -47,7 +47,8 @@ Additional documentation is available on LCDwiki: https://www.lcdwiki.com/2.8inc
 
 ## Battery
 You can use this type of battery: https://www.amazon.fr/dp/B0H2YNVYJ4.
-Make sure to choose a battery with a 2-pin 1.25mm JST connector.
+> [!WARNING]
+> Make sure to choose a battery with a 2-pin 1.25mm JST connector.
 
 <img width="430" height="366" alt="Battery" src="https://github.com/user-attachments/assets/6691fd67-dc1f-427b-8fcb-e9dfa019fda2" />
 
