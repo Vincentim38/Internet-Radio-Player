@@ -31,8 +31,8 @@ Après avoir imprimé le boitier, il ne reste plus qu'à placer à chaud 4 inser
 
 ---
 
-
-_English version_
+> [!NOTE]
+> _English version_
 
 This repository contains the source code for running an internet radio player, as well as 3D files for an enclosure to house the board and its display, the battery, and the speaker. ## Board
 The board is a Freenove FNK0104B, based on an ESP32-S3 with a 2.8" display (https://store.freenove.com/products/fnk0104?variant=45040270213318). Full documentation can be found here: https://github.com/Freenove/Freenove_ESP32_S3_Display. A speaker is included in the kit.
