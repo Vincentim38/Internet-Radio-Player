@@ -13,7 +13,9 @@ Une autre doc est disponible sur LCDwiki : https://www.lcdwiki.com/2.8inch_ESP32
 
 ## Batterie
 Vous pouvez utiliser ce type de batterie : https://www.amazon.fr/dp/B0H2YNVYJ4.
-Attention à choisir une batterie avec un connecteur JST 1.25mm 2Pin.
+
+> [!WARNING]
+> Attention à choisir une batterie avec un connecteur JST 1.25mm 2Pin.
 
 <img width="430" height="366" alt="Battery" src="https://github.com/user-attachments/assets/6691fd67-dc1f-427b-8fcb-e9dfa019fda2" />
 
