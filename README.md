@@ -10,7 +10,8 @@ Le board est un Freenove FNK0104B, basé sur une ESP-S3 avec un écran 2.8" (htt
  
 
 **Batterie**
-Vouos pouvez utiliser ce type de batterie : https://www.amazon.fr/dp/B0H2YNVYJ4. [!WARNING]Attention à choisir une batterie avec un connecteur JST 1.25mm 2Pin.
+> Vous pouvez utiliser ce type de batterie : https://www.amazon.fr/dp/B0H2YNVYJ4.
+> [!WARNING] Attention à choisir une batterie avec un connecteur JST 1.25mm 2Pin.
 
 <img width="430" height="366" alt="Battery" src="https://github.com/user-attachments/assets/6691fd67-dc1f-427b-8fcb-e9dfa019fda2" />
  
