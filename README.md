@@ -26,3 +26,34 @@ Le boitier est de ma conception aussi, il resssemble à ça :
 
 
 Après avoir imprimé le boitier, il ne reste plus qu'à placer à chaud 4 inserts taraudés en M3 de 4mm le long aux 4 coins de l'écran.
+
+
+
+---
+
+
+This repository contains the source code for running an internet radio player, as well as 3D files for an enclosure to house the board and its display, the battery, and the speaker. ## Board
+The board is a Freenove FNK0104B, based on an ESP32-S3 with a 2.8" display (https://store.freenove.com/products/fnk0104?variant=45040270213318). Full documentation can be found here: https://github.com/Freenove/Freenove_ESP32_S3_Display. A speaker is included in the kit.
+
+<img width="490" height="488" alt="BoardESP32-S3" src="https://github.com/user-attachments/assets/f4cc6e01-d229-4323-8f41-2e88f5e93d85" />
+
+Additional documentation is available on LCDwiki: https://www.lcdwiki.com/2.8inch_ESP32-S3_Display
+
+
+
+## Battery
+You can use this type of battery: https://www.amazon.fr/dp/B0H2YNVYJ4.
+Make sure to choose a battery with a 2-pin 1.25mm JST connector.
+
+<img width="430" height="366" alt="Battery" src="https://github.com/user-attachments/assets/6691fd67-dc1f-427b-8fcb-e9dfa019fda2" />
+
+## Enclosure
+The enclosure is also of my own design; it looks like this:
+
+<img width="479" height="378" alt="RadioWifiRendu1" src="https://github.com/user-attachments/assets/d1c2e937-7415-41f4-a480-ca1be89848d7" />
+
+<img width="359" height="385" alt="RadioWifiRendu2" src="https://github.com/user-attachments/assets/c91da9df-b7d3-4e35-9750-fcb5de20c011" />
+
+
+Once the enclosure has been printed, all that remains is to heat-set four M3 4mm threaded inserts into the four corners around the screen.
+
