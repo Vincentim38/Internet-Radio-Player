@@ -4,6 +4,6 @@ Ce dépôt contient les sources pour faire fonctionner un lecteur de radios inte
 
 Le board est un Freenove FNK0104B, basé sur une ESP-S3 avec un écran 2.8" (https://store.freenove.com/products/fnk0104?variant=45040270213318) dont la doc complète est ici : https://github.com/Freenove/Freenove_ESP32_S3_Display. Un HP est inclus dans le kit.
 
-Vouos pouvez utiliser ce type de batterie : https://www.amazon.fr/dp/B0H2YNVYJ4. Attention à bien avoir un connecteur JST 1.25mm 2Pin.
+Vouos pouvez utiliser ce type de batterie : https://www.amazon.fr/dp/B0H2YNVYJ4. Attention à choisir une batterie avec un connecteur JST 1.25mm 2Pin.
 
 Le boitier est de ma conception aussi, il resssemble à ça : 
