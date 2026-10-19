@@ -9,7 +9,7 @@ Le board est un Freenove FNK0104B, basé sur une ESP-S3 avec un écran 2.8" (htt
 
 Une autre doc est disponible sur LCDwiki : https://www.lcdwiki.com/2.8inch_ESP32-S3_Display
 
-Le pinout est dispo [ici](./InternetRadioPlayer/blob/main/PinOut%20Freenove%20Freenove%20FNK0104B) dans ce dépôt.
+Le pinout est dispo [ici](./PinOut%20Freenove%20Freenove%20FNK0104B) dans ce dépôt.
  
 
 
