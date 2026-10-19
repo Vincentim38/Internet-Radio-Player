@@ -83,10 +83,10 @@ struct WifiProfile {
 };
 
 const WifiProfile myNetworks[] = {
-  {"Livebox-1932-garage", "tim12345"},
-  {"Livebox-94C0", "tim12345"},
-  {"Livebox-94C0_jardin", "tim12345"},
-  {"TelephoneVince", "tim12345"}
+  {"SSID1", "password"},
+  {"SSID2", "password"},
+  {"SSID3", "password"},
+  {"SSID4", "password"}
 };
 const int NETWORKS_COUNT = sizeof(myNetworks) / sizeof(myNetworks[0]);
 
