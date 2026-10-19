@@ -200,10 +200,10 @@ void drawMuteButton() {
 
 // Nettoyage zone centrale et affichage du nom de la station
 void audio_showstation(const char *infrastructure) {
-// Efface tout l'intérieur du cadre central pour éviter les résidus (Y de 96 à 298)
+// Efface tout l'intérieur du cadre central (Y de 96 à 298)
 tft.fillRect(11, 96, 298, 83, TFT_BLACK);
 tft.setTextColor(TFT_ORANGE, TFT_BLACK);
-tft.drawCentreString(STATIONS_LIST[currentStationIndex].name, 160, 120, 4); // Configuration du texte : Couleur Orange, Police 4
+tft.drawCentreString(STATIONS_LIST[currentStationIndex].name, 160, 120, 4); // Configuration du texte : Couleur Orange, police 4
 }
 
 void setup() { //-------------------------------------------------------------
