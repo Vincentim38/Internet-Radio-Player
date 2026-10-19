@@ -80,12 +80,12 @@ Audio RadioAudio;
 
 Preferences preferences;
 
-// Structure simple pour stocker vos profils Wi-Fi
+// Structure pour stocker vos profils Wi-Fi
 struct WifiProfile {
   const char* ssid;
   const char* password;
 };
-// Ajoutez ici tous vos réseaux (le code testera la liste au démarrage)
+// Ajoutez ici vos réseaux (le code testera la liste au démarrage)
 const WifiProfile myNetworks[] = {
   {"SSID1", "password"},
   {"SSID2", "password"},
@@ -94,10 +94,9 @@ const WifiProfile myNetworks[] = {
 };
 const int NETWORKS_COUNT = sizeof(myNetworks) / sizeof(myNetworks[0]);
 
-
 void driver_es8311_init(void) {
   pinMode(AP_ENABLE, OUTPUT);
-  digitalWrite(AP_ENABLE, LOW);  // Réveille l'ampli matériel
+  digitalWrite(AP_ENABLE, LOW);  // Réveille l'ampli
   Wire.begin(I2C_SDA, I2C_SCL, I2C_SPEED);
   if (es8311_codec_init() != ESP_OK) {
     Serial.println("ES8311 Codec en échec.");
