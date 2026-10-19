@@ -1,7 +1,8 @@
 
 📺 Écran LCD & Tactile (SPI & I2C)
 
-L'écran LCD de 2,8 pouces communique via une interface SPI à 4 fils. Le contrôleur tactile (FT6336G) utilise quant à lui le bus I2C.
+L'écran LCD de 2,8 pouces ILI9341 communique via une interface SPI à 4 fils. Le contrôleur tactile (FT6336U) utilise quant à lui le bus I2C.
+FT6336U est un contrôleur de panneau tactile capacitif 
 • MOSI (SDA) : GPIO 11
 • SCLK (SCK) : GPIO 12
 • MISO : GPIO 13
@@ -14,7 +15,7 @@ L'écran LCD de 2,8 pouces communique via une interface SPI à 4 fils. Le contr�
 • Touch INT (Interruption) : GPIO 17
 • Touch RST (Reset) : GPIO 18
 
-🔊 Audio & Son (I2S Codec)
+🔊 Audio & Son (I2S Codec) ES8311
 
 • I2S MCK : GPIO 4
 • I2S BCK : GPIO 5
