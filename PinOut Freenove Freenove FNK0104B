@@ -1,0 +1,35 @@
+
+📺 Écran LCD & Tactile (SPI & I2C)
+
+L'écran LCD de 2,8 pouces communique via une interface SPI à 4 fils. Le contrôleur tactile (FT6336G) utilise quant à lui le bus I2C.
+• MOSI (SDA) : GPIO 11
+• SCLK (SCK) : GPIO 12
+• MISO : GPIO 13
+• CS (Sélection) : GPIO 10
+• DC (Data/Command) : GPIO 46
+• Backlight (Rétroéclairage PWM) : GPIO 45
+• LCD Reset : Connecté au bouton de réinitialisation matériel principal (CHIP_PU / EN).
+• Touch SDA : GPIO 16
+• Touch SCL : GPIO 15
+• Touch INT (Interruption) : GPIO 17
+• Touch RST (Reset) : GPIO 18
+
+🔊 Audio & Son (I2S Codec)
+
+• I2S MCK : GPIO 4
+• I2S BCK : GPIO 5
+• I2S DINT : GPIO 6
+• I2S DOUT : GPIO 8
+• I2S WS : GPIO 7
+• Amplificateur (AP Enable) : GPIO 1
+
+💾 Emplacement carte SD (SD_MMC)
+
+• SD_MMC D2 : GPIO 48
+• SD_MMC D3 : GPIO 47
+
+🔌 Boutons, LED RGB & Batterie
+
+• Bouton BOOT (User Key) : GPIO 0 (Sert également à forcer le mode de téléchargement flash au démarrage).
+• LED RGB Intégrée (WS2812) : GPIO 42
+• Lecture tension Batterie (ADC) : GPIO 9
