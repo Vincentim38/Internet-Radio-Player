@@ -80,17 +80,17 @@ Audio RadioAudio;
 
 Preferences preferences;
 
-// Structure simple pour stocker vos profils Wi-Fi ----------------------
+// Structure simple pour stocker vos profils Wi-Fi
 struct WifiProfile {
   const char* ssid;
   const char* password;
 };
 // Ajoutez ici tous vos réseaux (le code testera la liste au démarrage)
 const WifiProfile myNetworks[] = {
-  {"Livebox-1932-garage", "tim12345"},
-  {"Livebox-94C0", "tim12345"},
-  {"Livebox-94C0_jardin", "tim12345"},
-  {"TelephoneVince", "tim12345"}
+  {"SSID1", "password"},
+  {"SSID2", "password"},
+  {"SSID3", "password"},
+  {"SSID4", "password"}
 };
 const int NETWORKS_COUNT = sizeof(myNetworks) / sizeof(myNetworks[0]);
 
