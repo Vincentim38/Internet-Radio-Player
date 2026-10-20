@@ -1,6 +1,7 @@
 # InternetRadioPlayer
 
 Ce dépôt contient [les sources](./RadioWifi.ino) pour faire fonctionner un lecteur de radios internet, ainsi que les [fichiers 3D](./RadioWifi.step) permettant de construire une boite contenant le board et son écran, la batterie et le haut-parleur.
+
 Atterntion de vérifier que les règlages dans l'onglet 'Outils' d'Arduino IDE sont bien semblables à [ceux-ci]([qdg](https://github.com/Vincentim38/InternetRadioPlayer/blob/main/ArduinoIDETools.png)).
 
 ## Board
