@@ -32,7 +32,7 @@ Le boitier est de ma conception aussi, il resssemble à ça :
 <img width="359" height="385" alt="RadioWifiRendu2" src="https://github.com/user-attachments/assets/c91da9df-b7d3-4e35-9750-fcb5de20c011" />
 
 
-Après avoir imprimé le boitier, il ne reste plus qu'à placer à chaud 4 inserts taraudés en M3 de 4mm le long aux 4 coins de l'écran.
+Après avoir imprimé le boitier, il ne reste plus qu'à placer à chaud 4 inserts taraudés en M3 de 4mm de long aux 4 coins de l'écran.
 
 
 
