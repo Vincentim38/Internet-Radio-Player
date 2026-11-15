@@ -9,6 +9,8 @@ Vérifier que les règlages dans l'onglet 'Outils' d'Arduino IDE sont bien sembl
 > ESP32-audioI2S-master [V3.0.12] (https://github.com/schreibfaul1/ESP32-audioI2S/releases/tag/3.0.12).
 > 
 > Dans le gestionnaire de cartes, utiliser les boards 'esp32 par espressif' V2.0.14.
+>
+> Mettre es8311.h et es8311.cpp dans le même réépertoire que le .ino
 
 
 ## Board
