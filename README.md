@@ -4,9 +4,11 @@ Ce dépôt contient [les sources](./RadioWifi.ino) pour faire fonctionner un lec
 
 > [!WARNING]
 Vérifier que les règlages dans l'onglet 'Outils' d'Arduino IDE sont bien semblables à [ceux-ci](https://github.com/Vincentim38/InternetRadioPlayer/blob/main/ArduinoIDETools.jpg).
+> 
 > Les versions des bibliothèques sont aussi importantes à respecter :
 > ESP32-audioI2S-master [V3.0.12] (https://github.com/schreibfaul1/ESP32-audioI2S/releases/tag/3.0.12).
-> Dans le gestionnaire de cartes, tiliser les boards 'esp32 par espressif' V2.0.14.
+> 
+> Dans le gestionnaire de cartes, utiliser les boards 'esp32 par espressif' V2.0.14.
 
 
 ## Board
