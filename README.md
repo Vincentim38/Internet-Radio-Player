@@ -10,7 +10,7 @@ Vérifier que les règlages dans l'onglet 'Outils' d'Arduino IDE sont bien sembl
 > 
 > Dans le gestionnaire de cartes, utiliser les boards 'esp32 par espressif' V2.0.14.
 >
-> Mettre es8311.h et es8311.cpp dans le même réépertoire que le .ino
+> Et mettre les fichiers es8311.h et es8311.cpp dans le même répertoire que le .ino, donc mettre #include "es8311.h" dans les déclarations de bibliothèques.
 
 
 ## Board
